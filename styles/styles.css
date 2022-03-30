@@ -1,0 +1,38 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	font-family: 'Brush Script MT', cursive;
+	text-align: center;
+	background: #1E90FF;
+	font-size: 30;
+}
+
+.groceryList{
+	background: white;
+	width: 600px;
+	margin: auto;
+}
+
+.groceryList h1{
+	font-size: 50;
+}
+
+.groceryList i{
+	color: red;
+}
+
+.groceryList input{
+	font-family: 'Brush Script MT', cursive;
+	font-size: 20;
+}
+
+#groceryListItems listItem{
+	margin-left: 50;
+	margin-right: 10;
+	margin-top: 15;
+	font-size: 800;
+}
+
